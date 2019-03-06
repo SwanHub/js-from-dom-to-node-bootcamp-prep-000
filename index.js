@@ -1,1 +1,1 @@
-console.log("Sup Worldo!!!")
+console.log('Sup Worldo!!!');
